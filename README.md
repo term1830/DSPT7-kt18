@@ -1,2 +1,2 @@
 # DSPT7-kt18
-Collection of data
+Collection of datascience utility functions
