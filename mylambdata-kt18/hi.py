@@ -1,4 +1,3 @@
-
 from mymod import enlarge
 
 print ('ttt')
