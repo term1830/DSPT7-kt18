@@ -1,4 +1,4 @@
-from mymod import enlarge
+import mymod
 
 print ('ttt')
 
